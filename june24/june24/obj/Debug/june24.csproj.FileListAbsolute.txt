@@ -1,0 +1,8 @@
+C:\Users\elias\source\repos\june24\june24\obj\Debug\june24.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\june24\june24\obj\Debug\june24.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\source\repos\june24\june24\obj\Debug\june24.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\june24\june24\bin\Debug\june24.exe.config
+C:\Users\elias\source\repos\june24\june24\bin\Debug\june24.exe
+C:\Users\elias\source\repos\june24\june24\bin\Debug\june24.pdb
+C:\Users\elias\source\repos\june24\june24\obj\Debug\june24.exe
+C:\Users\elias\source\repos\june24\june24\obj\Debug\june24.pdb
